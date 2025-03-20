@@ -3,8 +3,8 @@
 I have developed an Excel-based data analysis project to identify the root cause behind the decline in order volume and quantity in the Platinum product category for Bulkpro. This project involves detailed analysis using merged order and product datasets, visualized via Excel dashboards and pivot charts.
 
 ## Dataset Used
-- <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/order-master-bulkpro.xlsx">Order_Dataset</a>
-- <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/product-master-bulkpro.xlsx">Product_Dataset</a>
+- <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/order-master-bulkpro.xlsx">Order Dataset</a>
+- <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/product-master-bulkpro.xlsx">Product Dataset</a>
 
 ## Bulkpro Sales Analysis and Performance Dashboard Creation
 - <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/Bulkpro%20Analysis.xlsx">Final Analysis</a>
@@ -20,3 +20,10 @@ I have developed an Excel-based data analysis project to identify the root cause
 8. Is there a correlation between listing date and order performance in the Platinum category?
 9. How are specific segments (category + channel) impacting overall order decline?
 10. What is the trend of product listing vs order conversion over time for Platinum category?
+
+## Tools & Skills Used
+**Microsoft Excel –** Data merging, Pivot Tables, Slicers, Charts, Conditional Formatting
+Data Analysis & Business Intelligence – Interpreting data trends and generating actionable insights
+KPI Design & Performance Tracking – Identifying key business metrics and tracking performance indicators
+Segmentation Analysis – Analyzing data by category, channel, and product onboarding trends
+Business Communication and Reporting – Summarizing insights into management-level dashboards and reports

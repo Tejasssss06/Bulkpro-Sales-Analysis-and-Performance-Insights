@@ -22,8 +22,8 @@ I have developed an Excel-based data analysis project to identify the root cause
 10. What is the trend of product listing vs order conversion over time for Platinum category?
 
 ## Tools & Skills Used
-**Microsoft Excel –** Data merging, Pivot Tables, Slicers, Charts, Conditional Formatting
-**Data Analysis & Business Intelligence –** Interpreting data trends and generating actionable insights
-**KPI Design & Performance Tracking –** Identifying key business metrics and tracking performance indicators
-**Segmentation Analysis –** Analyzing data by category, channel, and product onboarding trends
-**Business Communication and Reporting –** Summarizing insights into management-level dashboards and reports
+- **Microsoft Excel** - Data merging, Pivot Tables, Slicers, Charts, Conditional Formatting
+- **Data Analysis & Business Intelligence** - Interpreting data trends and generating actionable insights
+- **KPI Design & Performance Tracking** - Identifying key business metrics and tracking performance indicators
+- **Segmentation Analysis** - Analyzing data by category, channel, and product onboarding trends
+- **Business Communication and Reporting** - Summarizing insights into management-level dashboards and reports

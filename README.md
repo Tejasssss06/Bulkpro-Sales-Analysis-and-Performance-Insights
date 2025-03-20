@@ -1,6 +1,6 @@
 # Bulkpro Sales Analysis and Performance Insights (Using MS Excel)
 ## Objective
-I have developed an Excel-based data analysis project to identify the root cause behind the decline in order volume and quantity in the Platinum product category for Bulkpro. This project involves detailed analysis using merged order and product datasets, visualized via Excel dashboards and pivot charts.
+The objective of this project is to identify the root cause behind the decline in order volume and quantity in the Platinum product category for Bulkpro by analyzing merged order and product datasets, and presenting actionable insights through interactive Excel dashboards and pivot charts for informed business decision-making.
 
 ## Dataset Used
 - <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/order-master-bulkpro.xlsx">Order Dataset</a>

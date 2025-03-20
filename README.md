@@ -1,5 +1,5 @@
 # Bulkpro Sales Analysis and Performance Insights (Using MS Excel)
-## Objective:
+## Objective
 I have developed an Excel-based data analysis project to identify the root cause behind the decline in order volume and quantity in the Platinum product category for Bulkpro. This project involves detailed analysis using merged order and product datasets, visualized via Excel dashboards and pivot charts.
 
 ## Dataset Used
@@ -23,7 +23,7 @@ I have developed an Excel-based data analysis project to identify the root cause
 
 ## Tools & Skills Used
 **Microsoft Excel –** Data merging, Pivot Tables, Slicers, Charts, Conditional Formatting
-Data Analysis & Business Intelligence – Interpreting data trends and generating actionable insights
-KPI Design & Performance Tracking – Identifying key business metrics and tracking performance indicators
-Segmentation Analysis – Analyzing data by category, channel, and product onboarding trends
-Business Communication and Reporting – Summarizing insights into management-level dashboards and reports
+**Data Analysis & Business Intelligence –** Interpreting data trends and generating actionable insights
+**KPI Design & Performance Tracking –** Identifying key business metrics and tracking performance indicators
+**Segmentation Analysis –** Analyzing data by category, channel, and product onboarding trends
+**Business Communication and Reporting –** Summarizing insights into management-level dashboards and reports

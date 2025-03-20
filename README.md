@@ -3,8 +3,8 @@
 I have developed an Excel-based data analysis project to identify the root cause behind the decline in order volume and quantity in the Platinum product category for Bulkpro. This project involves detailed analysis using merged order and product datasets, visualized via Excel dashboards and pivot charts.
 
 ## Dataset Used
-- <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/order-master-bulkpro.xlsx">Order Dataset</a>
-- <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/product-master-bulkpro.xlsx">Product Dataset</a>
+- <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/order-master-bulkpro.xlsx">Order_Dataset</a>
+- <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/product-master-bulkpro.xlsx">Product_Dataset</a>
 
 ## Bulkpro Sales Analysis and Performance Dashboard Creation
 - <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/Bulkpro%20Analysis.xlsx">Final Analysis</a>

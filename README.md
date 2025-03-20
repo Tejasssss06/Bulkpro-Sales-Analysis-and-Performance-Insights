@@ -6,7 +6,7 @@ I have developed an Excel-based data analysis project to identify the root cause
 - <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/order-master-bulkpro.xlsx">Ordere Dataset</a>
 - <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/product-master-bulkpro.xlsx">Product Dataset</a>
 
-## Bulkpro Sales Analysis and Performance Insights Creation
+## Bulkpro Sales Analysis and Performance Dashboard Creation
 - <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/Bulkpro%20Analysis.xlsx">Final Analysis</a>
 
 ## KPI Questions

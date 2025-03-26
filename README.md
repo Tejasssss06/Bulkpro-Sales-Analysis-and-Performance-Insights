@@ -1,4 +1,4 @@
-# Bulkpro Sales Analysis and Performance Insights (Using MS Excel)
+# Bulkpro Sales Analysis and Performance Insights
 ## Objective
 The objective of this project is to identify the root cause behind the decline in order volume and quantity in the Platinum product category for Bulkpro by analyzing merged order and product datasets, and presenting actionable insights through interactive Excel dashboards and pivot charts for informed business decision-making.
 
@@ -6,8 +6,8 @@ The objective of this project is to identify the root cause behind the decline i
 - <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/order-master-bulkpro.xlsx">Order Dataset</a>
 - <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/product-master-bulkpro.xlsx">Product Dataset</a>
 
-## Bulkpro Sales Analysis and Performance Dashboard Creation
-- <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/Bulkpro%20Analysis.xlsx">Final Analysis</a>
+## Excel File
+- <a href= "https://github.com/Tejasssss06/Bulkpro-Sales-Analysis-and-Performance-Insights-/blob/main/Bulkpro%20Analysis.xlsx">Bulkpro Sales Analysis and Performance Dashboard</a>
 
 ## KPI Questions
 1. What is the monthly total order quantity across all categories and channels?
